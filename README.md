@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a specialist consultant from the UK, living in Lisbon - Portugal, who develops full stack applications using:
+I am a specialist consultant originally from the UK, who lives in Lisbon - Portugal.  I develop full stack applications using:
 
 - Angular and Javascript
 - AWS and Firebase
@@ -12,6 +12,8 @@ I am a specialist consultant from the UK, living in Lisbon - Portugal, who devel
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/400360/docgecko)
 
+<br>
+<br>
 
 ## Expertise
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
