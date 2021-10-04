@@ -1,10 +1,13 @@
 ### Hi there 👋
 I am a specialist consultant originally from the UK, who lives in Lisbon - Portugal.  I develop full stack applications using:
 
-- React, Angular and Javascript
-- AWS and Firebase
-- Postgresql
-- Flask, SqlAlchemy and Python
+- React, Angular, Javascript
+- Flask, SQLAlchemy, Python
+- AWS
+- Firebase
+- PostgreSQL
+- Heroku
+- Contentful
 
 
 ## Connect with me
