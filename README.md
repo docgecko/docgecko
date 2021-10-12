@@ -5,8 +5,9 @@ I am a specialist consultant originally from the UK, who lives in Lisbon - Portu
 - Flask, SQLAlchemy, Python
 - AWS
 - Firebase
-- PostgreSQL
 - Heroku
+- PostgreSQL
+- Storyblok
 - Contentful
 
 
