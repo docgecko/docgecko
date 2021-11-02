@@ -16,6 +16,7 @@ I am Daren, a specialist consultant originally from the UK, now living in Lisbon
 
 
 ## Expertise
-  <img align="left" alt="aws" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img align="left" alt="aws" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img align="left" alt="aws" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
