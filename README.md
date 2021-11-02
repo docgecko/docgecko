@@ -10,7 +10,7 @@ I am a specialist consultant originally from the UK, who lives in Lisbon - Portu
 - Contentful
 
 ## Some Of My Stats
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=docgecko)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=docgecko&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=docgecko&theme=highcontrast&show_icons=true&count_private=true)
 
