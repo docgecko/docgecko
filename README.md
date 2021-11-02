@@ -2,7 +2,7 @@
 I am Daren, a specialist consultant originally from the UK, now living in Lisbon, Portugal.  I develop full stack applications mostly using React, Angular, Flask, using both sql/non-sql such as Firebase and PostgreSQL, integrating with Headerless CMS, including Storyblok and Contentful, and using services such as AWS, Vercel and Heroku.
 
 ## Some Of My Stats
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=docgecko&theme=highcontrast&hide=coffeescript, handlebars)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=docgecko&theme=highcontrast&hide=coffeescript,handlebars)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=docgecko&theme=highcontrast&show_icons=true&count_private=true)
 
