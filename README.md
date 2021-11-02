@@ -10,6 +10,9 @@ I am a specialist consultant originally from the UK, who lives in Lisbon - Portu
 - Storyblok
 - Contentful
 
+## My Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=docgecko&theme=highcontrast&show_icons=true&count_private=true)
+
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/darensdw)
