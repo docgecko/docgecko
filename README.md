@@ -9,7 +9,7 @@ I am Daren, a specialist consultant originally from the UK, now living in Lisbon
 <br>
 
 ## Some Of My Stats
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=docgecko&theme=highcontrast&hide=coffeescript,handlebars,xslt,php)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=docgecko&theme=highcontrast&hide=coffeescript,handlebars,xslt,php&exclude_repo=create-react-app-auth-amplify,hackernews-react-apollo,Learn-Node,EmptyBox)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=docgecko&theme=highcontrast&show_icons=true&count_private=true)
 
