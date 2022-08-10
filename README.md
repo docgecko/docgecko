@@ -1,5 +1,7 @@
 ### Hello There 👋
-I am Daren, a specialist consultant originally from the UK, now living in Lisbon, Portugal.  I develop full stack applications mostly using React, Angular and Flask, using both sql/non-sql databases such as Firebase and PostgreSQL, integrating with Headerless CMS, including Storyblok and Contentful, and using services such as AWS, Vercel and Heroku.
+I am Daren, a specialist consultant originally from the UK, now living in Lisbon, Portugal.
+
+I develop full stack applications using React, Preact, Angular and Flask, using both sql/non-sql databases such as Firebase and PostgreSQL, integrating with Headerless CMS, including Storyblok and Contentful, and using services such as Vercel, Railway and Heroku.
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/darensdw)
 
